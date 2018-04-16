@@ -4,14 +4,14 @@
 
 This game requires you to remember the logo of cards and match them with their matching logo.
 
-<img src = img/memorygame.PNG alt="memory-game" width="600" height="600">
-
 ## Parts of the game
 1. 16 cards.
 2. Restart button.
 3. Moves counter.
 4. Stars counter.
 5. An alert.
+
+<img src = img/memorygame.PNG alt="memory-game" width="600" height="600">
 
 ## How to play the game?
 1. Click the card to flip it and see what logo it has.
