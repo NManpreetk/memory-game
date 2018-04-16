@@ -20,7 +20,7 @@ The game requires you to remember the logo of cards and match them with the othe
 3. If cards do not match, then they will flip upside down(turn black).
 4. If cards match, then it's color will turn green and become disabled.You will not be able to click them anymore.
 5. When you make two moves, whether the cards matches or not, a move is counted.
-6. When you are done playing the game, and want to play again, click the restart button to flip all the cards back and shuffle them.
+6. When you are done playing the game, and want to play again, click the restart button to flip all the cards black and shuffle them.
 
 ## Issues
 1. When all the cards matched, the alert shows up without turning the last matched cards green.
