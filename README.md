@@ -1,7 +1,7 @@
 # Memory-game 
 This game requires you to remember the logo of cards and match them with their matching logo.
 
-<img src = memory-game/img/memorygame.PNG>
+<img src = img/memorygame.PNG>
 
 ## Parts of the game
 1. 16 cards.
