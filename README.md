@@ -1,6 +1,6 @@
 # Memory-game 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
+
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 
 The game requires you to remember the logo of cards and match them with the other card with same logo.This will make you hone your memory skills and you won't even realize it.
